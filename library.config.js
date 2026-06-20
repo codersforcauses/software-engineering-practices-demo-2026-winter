@@ -2,7 +2,7 @@ export const HEX_COUNT = 50
 export const WALLS     = 4
 export const SHELVES   = 2
 export const VOLUMES   = 5
-export const PAGES     = 10
+export const PAGES     = 1
 
 export function generateHexes(count) {
   let s = 0xba5eba11
